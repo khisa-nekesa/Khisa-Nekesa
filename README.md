@@ -6,8 +6,8 @@ IT at Strathmore, and building in public toward cloud security.
 
 ## Right now
 - 🌐 CCNA certified, practising with a new networking lab every week
-- 🎓 Diploma in Business IT (Strathmore), BSc Computer Networks & Security starts April 2027
-- ☕ Learning Java: OOP, arrays and sorting
+- 🎓 Diploma in Business IT (Strathmore), BSc Computer Networks & Cyber Security starts April 2027
+- ☕ Learning Java, Python, HTML , CSS and JavaScript
 - 🎯 Looking for an IT or network support role
 
 ## Where I'm headed
